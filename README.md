@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aliattackth
+Hi @Mike Cao
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python and c#
 - 💞️ I’m looking for a team/teammate to work with
